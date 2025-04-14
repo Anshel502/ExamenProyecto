@@ -1,0 +1,40 @@
+
+  body {
+    background-color: #e1e1e1;
+    font-family: 'Segoe UI', sans-serif;
+   
+  }
+ 
+  .encabezado {
+    background-color: #f2ff00;
+    border-bottom: 2px solid #ff0000;
+    padding: 15px 40px;
+  }
+  
+  .contenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 60px;
+  }
+  
+  .menu ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: #4a0000;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .menu a:hover {
+    color: #ff0000;
+  }
+  
