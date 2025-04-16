@@ -38,3 +38,7 @@
     color: #ff0000;
   }
   
+  .menu-card {
+    text-decoration: none;
+    color: inherit;
+  }
