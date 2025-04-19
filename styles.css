@@ -42,3 +42,13 @@
     text-decoration: none;
     color: inherit;
   }
+
+  .burger-img {
+    width: 250px;
+    height: 250px;
+  }
+  
+  .botonOrdenar{
+
+    background: #f2ff00;
+  }
