@@ -52,3 +52,25 @@
 
     background: #f2ff00;
   }
+
+  .navbar-custom {
+    background-color: white;
+}
+.navbar-nav .nav-link {
+    color: black;
+    font-weight: 500;
+}
+.menu-icons img {
+    width: 40px;
+}
+.menu-icons {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+.menu-icons p {
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
